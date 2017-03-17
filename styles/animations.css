@@ -1,0 +1,518 @@
+.auto{
+  height: auto;
+}
+@-webkit-keyframes salesian{
+  0%{background: url("../images/salesian1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    18%{background: url("../images/salesian1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  22%{background: url("../images/salesian2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    38%{background: url("../images/salesian2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  42%{background: url("../images/salesian3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    58%{background: url("../images/salesian3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  62%{background: url("../images/salesian4.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    78%{background: url("../images/salesian4.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  82%{background: url("../images/salesian5.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/salesian5.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/salesian1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+
+#salesian{
+  background: url("../images/salesian5.png");
+  width: 95%;
+  height: 300px;
+  margin-left: 2.5%;
+  border-radius: 25px;
+  -webkit-animation-name: salesian;
+  -webkit-animation-duration: 25s;
+  -webkit-animation-iteration-count: infinite;
+}
+.sportouter{
+  width: 50%;
+  height: 300px;
+  border-top: none;
+  position: relative;
+}
+.clubsdiv{
+  width: 50%;
+  border-top: none;
+}
+.left{
+  float: left;
+}
+.right{
+  margin-left: 50%;
+}
+.lastdiv{
+  margin-left: 25%;
+}
+.sportimg{
+  width: 80%;
+  height: 200px;
+  margin-left: 10%;
+  border-radius: 25px;
+  position: absolute;
+  top: 70px;
+  box-shadow: 15px 15px 30px black;
+}
+.sportname{
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+h2.sportname{
+  top: 45px;
+}
+.season{
+  margin-top: 30px;
+  border-top: 2px solid black;
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 10px;
+}
+#firstseason{
+  border-top: 2px solid black;
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 10px;
+}
+.sportlogo{
+  position: absolute;
+  height: 85px;
+  left: 30px;
+}
+#xclogo{
+  position: absolute;
+  height: 85px;
+  left: 10px;
+}
+@-webkit-keyframes crosscountry{
+  0%{background: url("../images/xc1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    23%{background: url("../images/xc1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  27%{background: url("../images/xc2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    48%{background: url("../images/xc2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  52%{background: url("../images/xc3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    73%{background: url("../images/xc3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  77%{background: url("../images/xc4.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/xc4.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/xc1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#cross{
+  background: url("../images/xc4.png");
+  -webkit-animation-name: crosscountry;
+  -webkit-animation-duration: 12s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes football{
+  0%{background: url("../images/foot1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    23%{background: url("../images/foot1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  27%{background: url("../images/foot2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    48%{background: url("../images/foot2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  52%{background: url("../images/foot3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    73%{background: url("../images/foot3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  77%{background: url("../images/foot4.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/foot4.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/foot1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#football{
+  background: url("../images/foot3.png");
+  -webkit-animation-name: football;
+  -webkit-animation-duration: 12s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes basketball{
+  0%{background: url("../images/basketball1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    31%{background: url("../images/basketball1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  35%{background: url("../images/basketball2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    65%{background: url("../images/basketball2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  69%{background: url("../images/basketball3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/basketball3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/basketball1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#basketball{
+  background: url("../images/basketball2.png");
+  -webkit-animation-name: basketball;
+  -webkit-animation-duration: 9s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes soccer{
+  0%{background: url("../images/soccer1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    23%{background: url("../images/soccer1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  27%{background: url("../images/soccer2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    48%{background: url("../images/soccer2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  52%{background: url("../images/soccer3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    73%{background: url("../images/soccer3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  77%{background: url("../images/soccer4.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/soccer4.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/soccer1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#soccer{
+  background: url("../images/soccer2.png");
+  -webkit-animation-name: soccer;
+  -webkit-animation-duration: 12s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes baseball{
+  0%{background: url("../images/baseball1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    23%{background: url("../images/baseball1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  27%{background: url("../images/baseball2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    48%{background: url("../images/baseball2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  52%{background: url("../images/baseball3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    73%{background: url("../images/baseball3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  77%{background: url("../images/baseball4.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/baseball4.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/baseball1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#baseball{
+  background: url("../images/baseball4.png");
+  -webkit-animation-name: baseball;
+  -webkit-animation-duration: 12s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes golf{
+  0%{background: url("../images/golf1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    23%{background: url("../images/golf1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  27%{background: url("../images/golf2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    48%{background: url("../images/golf2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  52%{background: url("../images/golf3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    73%{background: url("../images/golf3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  77%{background: url("../images/golf4.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/golf4.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/golf1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#golf{
+  background: url("../images/golf1.png");
+  -webkit-animation-name: golf;
+  -webkit-animation-duration: 12s;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes volleyball{
+  0%{background: url("../images/volleyball1.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    31%{background: url("../images/volleyball1.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  35%{background: url("../images/volleyball2.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    65%{background: url("../images/volleyball2.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  69%{background: url("../images/volleyball3.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+}
+    98%{background: url("../images/volleyball3.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+  }
+
+  100%{background: url("../images/.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+}
+#volleyball{
+  background: url("../images/volleyball2.png");
+  -webkit-animation-name: volleyball;
+  -webkit-animation-duration: 9s;
+  -webkit-animation-iteration-count: infinite;
+}
