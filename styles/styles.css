@@ -254,15 +254,17 @@ aside p{
 }
 #smnav{
   width: 100%;
-  margin-left: 12.5%;
   height: 150px;
   border-bottom: 0px;
   margin-top: 35px;
 }
+#smnav ul{
+  margin-left: 10.25%;
+}
 #smnav ul li{
-  width: 15%;
+  width: 18%;
   height: 175px;
-  margin-right: 5%;
+  margin-right: 2.5%;
 }
 #smnav ul li a{
   height: 175px;
